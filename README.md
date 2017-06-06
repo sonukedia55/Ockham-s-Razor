@@ -1,4 +1,4 @@
-# OnlinePuzzle
+# Ockham's Razor
 
 An online Puzzle game where you have to guess the meaning of pictures
 
